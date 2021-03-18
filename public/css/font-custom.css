@@ -1,0 +1,75 @@
+/* ----------------------------------------------------------------
+    Custom CSS
+
+    Add all your Custom Styled CSS here for New Styles or
+    Overwriting Default Theme Styles for Better Hanlding Updates
+-----------------------------------------------------------------*/
+
+
+
+/*-------------SETTING-UP HOME MADE --------------*/
+@font-face {
+    font-family: 'homemade_appleregular';
+    src: url('fonts/homemade/homemadeapple-regular-webfont.woff2') format('woff2'),
+         url('fonts/homemade/homemadeapple-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*-------------SETTING-UP HELVETICA NEUE FONTS --------------*/
+@font-face {
+    font-family: 'helvetica_neue_ultraltext';
+    src: url('fonts/helvetica_neue/helveticaneuelt-ultraligext-webfont.woff2') format('woff2'),
+         url('fonts/helvetica_neue/helveticaneuelt-ultraligext-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'helvetica_neue_boldext';
+    src: url('fonts/helvetica_neue/helveticaneuelt-boldext-webfont.woff2') format('woff2'),
+         url('fonts/helvetica_neue/helveticaneuelt-boldext-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+    
+
+
+
+@font-face {
+    font-family: 'helvetica_neue_blackcond';
+    src: url('fonts/helvetica_neue/helveticaneuelt-blackcond-webfont.woff2') format('woff2'),
+         url('fonts/helvetica_neue/helveticaneuelt-blackcond-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'helvetica_neue_extraboldcond';
+    src: url('fonts/helvetica_neue/helveticaneuelt-extblackcond-webfont.woff2') format('woff2'),
+         url('fonts/helvetica_neue/helveticaneuelt-extblackcond-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'helvetica_neue_ultralight';
+    src: url('../fonts/helvetica_neue/helveticaneue-webfont.woff2') format('woff2'),
+         url('../fonts/helvetica_neue/helveticaneue-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'helveticaneuebold';
+    src: url('../fonts/helvetica_neue/helveticaneuebd-webfont.woff2') format('woff2'),
+         url('../fonts/helvetica_neue/helveticaneuebd-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

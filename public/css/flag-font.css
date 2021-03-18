@@ -1,0 +1,78 @@
+@font-face {
+  font-family: 'icomoon-flag';
+  src:  url('fonts/flag-icomoon.eot?vz6ij6');
+  src:  url('fonts/flag-icomoon.eot?vz6ij6#iefix') format('embedded-opentype'),
+    url('fonts/flag-icomoon.ttf?vz6ij6') format('truetype'),
+    url('fonts/flag-icomoon.woff?vz6ij6') format('woff'),
+    url('fonts/flag-icomoon.svg?vz6ij6#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon-flag' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-ae .path1:before {
+  content: "\e900";
+  color: rgb(0, 115, 47);
+}
+.icon-ae .path2:before {
+  content: "\e901";
+  margin-left: -1.3330078125em;
+  color: rgb(255, 255, 255);
+}
+.icon-ae .path3:before {
+  content: "\e902";
+  margin-left: -1.3330078125em;
+  color: rgb(0, 0, 0);
+}
+.icon-ae .path4:before {
+  content: "\e903";
+  margin-left: -1.3330078125em;
+  color: rgb(255, 0, 0);
+}
+.icon-fr .path1:before {
+  content: "\e904";
+  color: rgb(255, 255, 255);
+}
+.icon-fr .path2:before {
+  content: "\e905";
+  margin-left: -1.3330078125em;
+  color: rgb(0, 38, 127);
+}
+.icon-fr .path3:before {
+  content: "\e906";
+  margin-left: -1.3330078125em;
+  color: rgb(243, 24, 48);
+}
+.icon-gb .path1:before {
+  content: "\e907";
+  color: rgb(1, 33, 105);
+}
+.icon-gb .path2:before {
+  content: "\e908";
+  margin-left: -1.3330078125em;
+  color: rgb(255, 255, 255);
+}
+.icon-gb .path3:before {
+  content: "\e909";
+  margin-left: -1.3330078125em;
+  color: rgb(255, 255, 255);
+}
+.icon-gb .path4:before {
+  content: "\e90a";
+  margin-left: -1.3330078125em;
+  color: rgb(200, 16, 46);
+}
